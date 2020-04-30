@@ -1,9 +1,9 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.less';
-import { Button } from 'antd-mobile';
+import React from 'react'
+import logo from './logo.svg'
+import './App.less'
+import { Button } from 'antd-mobile'
 
-function App() {
+function App () {
   return (
     <div className="App">
       <header className="App-header">
@@ -22,7 +22,7 @@ function App() {
         <Button type="primary">123</Button>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
