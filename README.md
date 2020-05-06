@@ -1,5 +1,8 @@
 ### react-h5-template-ant
->基于ant-mobile的H5模板,采用vw适配移动端
+>基于ant-mobile,采用vw适配的H5模板
+
+Github:  
+https://github.com/luozyiii/react-h5-template-ant
 
 #### 安装antd-mobile
 ```
